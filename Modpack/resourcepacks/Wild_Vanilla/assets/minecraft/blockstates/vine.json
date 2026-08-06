@@ -1,0 +1,110 @@
+{
+    "multipart": [
+      {
+        "apply": [{"model": "minecraft:block/vine"},{"model": "minecraft:block/vine2", "weight": 5},
+        {"model": "minecraft:block/vine3"},{"model": "minecraft:block/vine4"}],
+        "when": {
+          "north": "true"
+        }
+      },
+      {
+        "apply": [{"model": "minecraft:block/vine"},{"model": "minecraft:block/vine2", "weight": 5},
+        {"model": "minecraft:block/vine3"},{"model": "minecraft:block/vine4"}],
+        "when": {
+          "east": "false",
+          "north": "false",
+          "south": "false",
+          "up": "false",
+          "west": "false"
+        }
+      },
+      {
+        "apply": [{"model": "minecraft:block/vine","uvlock": false,"y": 90},
+        {"model": "minecraft:block/vine2","weight": 5,"uvlock": false,"y": 90},
+        {"model": "minecraft:block/vine3","uvlock": false,"y": 90},
+        {"model": "minecraft:block/vine4","uvlock": false,"y": 90}],        
+        "when": {
+          "east": "true"
+        }
+      },
+      {
+        "apply": [{"model": "minecraft:block/vine","uvlock": false,"y": 90},
+        {"model": "minecraft:block/vine2","uvlock": false,"y": 90, "weight": 5},
+        {"model": "minecraft:block/vine3","uvlock": false,"y": 90},
+        {"model": "minecraft:block/vine4","uvlock": false,"y": 90}],
+        "when": {
+          "east": "false",
+          "north": "false",
+          "south": "false",
+          "up": "false",
+          "west": "false"
+        }
+      },
+      {
+        "apply": [{"model": "minecraft:block/vine","uvlock": false,"y": 180},
+        {"model": "minecraft:block/vine2","uvlock": false,"y": 180, "weight": 5},
+        {"model": "minecraft:block/vine3","uvlock": false,"y": 180},
+        {"model": "minecraft:block/vine4","uvlock": false,"y": 180}],
+        "when": {
+          "south": "true"
+        }
+      },
+      {
+        "apply": [{"model": "minecraft:block/vine","uvlock": false,"y": 180},
+        {"model": "minecraft:block/vine2","uvlock": false,"y": 180, "weight": 5},
+        {"model": "minecraft:block/vine3","uvlock": false,"y": 180},
+        {"model": "minecraft:block/vine4","uvlock": false,"y": 180}],
+        "when": {
+          "east": "false",
+          "north": "false",
+          "south": "false",
+          "up": "false",
+          "west": "false"
+        }
+      },
+      {
+        "apply": [{"model": "minecraft:block/vine","uvlock": false,"y": 270},
+        {"model": "minecraft:block/vine2","uvlock": false,"y": 270, "weight": 5},
+        {"model": "minecraft:block/vine3","uvlock": false,"y": 270},
+        {"model": "minecraft:block/vine4","uvlock": false,"y": 270}],
+        "when": {
+          "west": "true"
+        }
+      },
+      {
+        "apply": [{"model": "minecraft:block/vine","uvlock": false,"y": 270},
+        {"model": "minecraft:block/vine2","uvlock": false,"y": 270, "weight": 5},
+        {"model": "minecraft:block/vine3","uvlock": false,"y": 270},
+        {"model": "minecraft:block/vine4","uvlock": false,"y": 270}],
+        "when": {
+          "east": "false",
+          "north": "false",
+          "south": "false",
+          "up": "false",
+          "west": "false"
+        }
+      },
+      {
+        "apply": [{"model": "minecraft:block/vine","uvlock": false,"x": 270},
+        {"model": "minecraft:block/vine2","uvlock": false,"x": 270, "weight": 5},
+        {"model": "minecraft:block/vine3","uvlock": false,"x": 270},
+        {"model": "minecraft:block/vine4","uvlock": false,"x": 270}],
+        "when": {
+          "up": "true"
+        }
+      },
+      {
+        "apply": [{"model": "minecraft:block/vine","uvlock": false,"x": 270},
+        {"model": "minecraft:block/vine2","uvlock": false,"x": 270, "weight": 5},
+        {"model": "minecraft:block/vine3","uvlock": false,"x": 270},
+        {"model": "minecraft:block/vine4","uvlock": false,"x": 270}],
+        "when": {
+          "east": "false",
+          "north": "false",
+          "south": "false",
+          "up": "false",
+          "west": "false"
+        }
+      }
+    ]
+  }

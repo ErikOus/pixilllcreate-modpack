@@ -1,0 +1,50 @@
+//gmask
+//paste
+//cut
+//paste
+//undo
+//paste -a
+//unco
+//undo
+//paste -a
+//undo
+//cut
+//paste
+//undo
+//paste -a
+//undo
+//paste -a
+//undo
+//paste -a
+//undo
+//paste -a
+//copy
+//flip
+//paste
+//undo
+//flip
+//paste
+//undo
+//paste
+//copy
+//flip
+//paste
+//undo
+//paste
+//undo
+//paste
+//cut
+//paste -a
+//copy
+//paste
+//undo
+//paste
+/weather clear
+//set red_wool
+//set air
+//set red_wool
+//set air
+//set red_wool
+//set air
+//set red_wool
+//set air

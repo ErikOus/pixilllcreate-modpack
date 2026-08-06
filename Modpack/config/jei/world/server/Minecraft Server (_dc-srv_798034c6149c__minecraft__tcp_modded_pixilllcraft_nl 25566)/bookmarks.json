@@ -1,0 +1,8 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"born_in_chaos_v1:gnawed_bones"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:spruce_slab"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:light_gray_dye"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cold_sweat:filled_waterskin","components":{"cold_sweat:temperature":30.0}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:prismarine"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

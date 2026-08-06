@@ -1,0 +1,13 @@
+name = "PixilllCreate"
+author = "Team PixilllCraft"
+version = "1.0 Curseforge"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d0f147fcfeb3fc3b2417ce45996c58495cc67f16be5c3a2bba59daf6f094ba46"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.235"

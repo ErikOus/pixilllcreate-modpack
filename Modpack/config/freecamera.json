@@ -1,0 +1,11 @@
+{
+  "flightSpeedMultiplier": 1.0,
+  "mouseSensitivity": 1.0,
+  "cinematicSmoothingFactor": 0.12,
+  "orbitSensitivity": 0.3,
+  "zoomFactor": 0.25,
+  "rollIncrement": 5.0,
+  "scrollSpeedFactor": 1.3,
+  "invertOrbitY": false,
+  "showSpeedInActionBar": true
+}

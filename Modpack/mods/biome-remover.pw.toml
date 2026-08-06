@@ -1,0 +1,13 @@
+name = "Biome Remover"
+filename = "biomeremover-neoforge-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5336441ae54c77aa1425990e7ac9bbef23c4d84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8369480
+project-id = 1518619

@@ -1,0 +1,13 @@
+name = "Create: Plenty O' Recipes - (Biomes O' Plenty + Create Compatibility Mod)"
+filename = "createplenty-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e502c2630a364849fe96aa3f65ff2b2001f36ee1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8283684
+project-id = 1574664

@@ -1,0 +1,13 @@
+name = "Not so simple Creative Dimension"
+filename = "creative_dimension_portal-0.1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6b1b95a3f300ca7001b00d82aa59bed104d5f563"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8119718
+project-id = 1543935

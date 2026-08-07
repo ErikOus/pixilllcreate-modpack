@@ -3412,7 +3412,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "de2cc54658d1fd0ec69b548ed58307c23d191acfd551f36c0a6721e96eca17ab"
+hash = "65d7dbf55554eea06332064358bfe6c30f329fed683679b95603c0168a893b07"
 metafile = true
 
 [[files]]
@@ -3552,7 +3552,7 @@ metafile = true
 
 [[files]]
 file = "mods/petrols-parts.pw.toml"
-hash = "32336a0ac67be3a466e581268aafaf859174ce9389addd43bd9d50d757148118"
+hash = "9421934b10433b6a421bd7c2d38a3c59023c316f17a4e9d7ce6152e7e039da85"
 metafile = true
 
 [[files]]

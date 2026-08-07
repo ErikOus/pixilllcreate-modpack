@@ -2997,20 +2997,8 @@ file = "imgui.ini"
 hash = "68e286a0f4b010097db2ad6079f583f30150a86cbc84ef4b991076553398f933"
 
 [[files]]
-file = "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar"
-hash = "5f3c8d752c2e0464eca8c9527d8ffe498129fd37a2fe86a266b64c98371763b1"
-
-[[files]]
 file = "mods/SSRDFV-0.4-1.21.1.jar.disabled"
 hash = "b634030236d75b4233fa8d6bcf0fa061fc749e3a6243a2d40ca2d61e203437e1"
-
-[[files]]
-file = "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
-hash = "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9"
-
-[[files]]
-file = "mods/Voxy World Gen V2-neoforge-1.21.1-2.4.2.jar"
-hash = "a2c3851d1fcbdd2e116d15c79d916b508b8ae0f117bda05a5de90446f1b63265"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -3073,6 +3061,11 @@ hash = "a0dd5bd9f06ce33a19b21a701684b91464ae7d9b9fd8b7e70d7f6148793f115b"
 metafile = true
 
 [[files]]
+file = "mods/better-modlist.pw.toml"
+hash = "46117b17e8f98f4767dc5f11703e02f113d90a25b3091a74fed08f5097e0eccf"
+metafile = true
+
+[[files]]
 file = "mods/better-weaponry.pw.toml"
 hash = "60aa4ffd474d9263c1c4044184f21a5f80f819b2b69be59a68a3eae51b832d20"
 metafile = true
@@ -3090,6 +3083,11 @@ metafile = true
 [[files]]
 file = "mods/biome-remover.pw.toml"
 hash = "617abea89a01130367043e456668c0f5abc457b074c00ac09d4dced64e594377"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "a4931e5abbec081a08ab3a1d69b2d470596b6361d707a7756f6ad34c0f21f81e"
 metafile = true
 
 [[files]]
@@ -3139,7 +3137,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
@@ -3163,8 +3161,9 @@ hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
 
 [[files]]
-file = "mods/connector-2.0.0-beta.16+1.21.1-full.jar"
-hash = "ed805a4df711ada58ed66ac2f1a30233eeb4e83c364bc4f16cd77f89a5bc5628"
+file = "mods/connector.pw.toml"
+hash = "c19c2e5a0b485648c801c4663ece3596d7e3bd1164f9065f27242346655066bf"
+metafile = true
 
 [[files]]
 file = "mods/continents.pw.toml"
@@ -3327,12 +3326,8 @@ hash = "dff824171060c79b327a4880c2f0546c727a041a489ef3af643ec2dcd9cd0c48"
 metafile = true
 
 [[files]]
-file = "mods/forgified-fabric-api-0.116.15+2.3.1+1.21.1.jar"
-hash = "b152376a89cf790ca7966df220f3fa85fb8ecb603225a6a9bdb6684c94944f1e"
-
-[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "e20b20d55b74dc8b3e9c2ff353b9f8788b3221b647cb32845fb53781a0b4684b"
+hash = "bdc751ad0e632ae3b25839d12bd5d548f575719baf61767b5ab64aa99d120ccc"
 metafile = true
 
 [[files]]
@@ -3377,7 +3372,7 @@ metafile = true
 
 [[files]]
 file = "mods/glitchcore.pw.toml"
-hash = "fa2d61b9c6b4446bbad9767e20bbd43c8c1e25bf0f7ecc9a237bf995456d02f5"
+hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
 
 [[files]]
@@ -3641,8 +3636,9 @@ hash = "43819545e13b46e5daa4e592e49d561acfe9875f21dee4417e8ec75d2dff42ba"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
-hash = "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
+metafile = true
 
 [[files]]
 file = "mods/sparse-structures.pw.toml"
@@ -3672,6 +3668,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "003fc4f0346ef9fc643692f85236055b820830a531bc284275c3cc7a4ce7c8b3"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
 metafile = true
 
 [[files]]
@@ -3706,6 +3707,11 @@ hash = "4801f55fa2877a51b0f0539071a4be9107dd0bc5077e54c73569f7fb40b206e4"
 [[files]]
 file = "mods/voxy-server-side-forge-neoforge.pw.toml"
 hash = "0406df269a2a3b7594b6acfa39f8816cc345b1268430f434547e5e70a6ad2a7e"
+metafile = true
+
+[[files]]
+file = "mods/voxy-worldgen.pw.toml"
+hash = "1d597929bb8daed68ef5d3d098d6b3a8e3f8cc47940dc13647c79c449dfa79e6"
 metafile = true
 
 [[files]]
@@ -3798,16 +3804,17 @@ file = "ponders_watched.json"
 hash = "fab3ec61f3f39a4d1e346d507c9036958ed226e26b6f4f81dba24fab30548ccc"
 
 [[files]]
-file = "resourcepacks/CreateSophStorage.zip"
-hash = "2920d92df7a14d5ff3fcc5b73c6f384d1586096bf86f9a38bfb3b7d33ecf53e1"
-
-[[files]]
 file = "resourcepacks/Wild_Vanilla.zip"
 hash = "f6f8abb3b35d92edf1bf86ed8d4d5b237b5456977e52fbb3836712fc6f9f6539"
 
 [[files]]
 file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
 hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-sophisticated-storages.pw.toml"
+hash = "4e069051ed9caad9723d82fac4c7dd195bf7ba313e3d34108a8ca6519ab889b0"
 metafile = true
 
 [[files]]
@@ -3829,28 +3836,33 @@ file = "servers.dat_old"
 hash = "510ea6118e8b15ad5123f8a651299aee4230427cbd7029b3f32018b1001ceabc"
 
 [[files]]
-file = "shaderpacks/BSL_v10.1.3.zip"
-hash = "185774628b5259c36255183fc1adeb0f64f89235f7ea2c826fa327d1112687a8"
-
-[[files]]
-file = "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
-hash = "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip"
-hash = "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15"
-
-[[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
 hash = "9fc444c724f5fd1f11f4e69547cb9dc1d072565099ba97d63fcef1d2ff4522ef"
 
 [[files]]
-file = "shaderpacks/Mellow Shader v3.3.zip"
-hash = "20410e9d70d120f97b219f17d9b771c7bab1e2de2d97d7f65caa5207e57012c0"
+file = "shaderpacks/bliss-shader.pw.toml"
+hash = "8ffd81a5e0b4c3bc2daf0d86714ef56df4beb1ed87a5c41c4e9bbb94a7006bc1"
+metafile = true
 
 [[files]]
-file = "shaderpacks/photon_v1.3b.zip"
-hash = "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "f91c2ec79366b4607d93928a07c223cbaa4a2e18fe0c110e68a3fc064e69b65a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/mellow.pw.toml"
+hash = "fed6df918cbbd83592498c02cadace1b8e82d32ed808772f5daafb12b2dd035b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
+metafile = true
 
 [[files]]
 file = "usercache.json"

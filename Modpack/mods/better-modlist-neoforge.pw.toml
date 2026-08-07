@@ -1,13 +1,13 @@
 name = "Better Modlist"
-filename = "better_modlist-1.1.22.jar"
+filename = "better_modlist-21.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c5c49876cf0e036c631b0909fed6903d7e28cc45"
+hash = "d3a1899f3976f04d7ce567f6e450ec1548a8b187"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7711471
+file-id = 8539658
 project-id = 1089803

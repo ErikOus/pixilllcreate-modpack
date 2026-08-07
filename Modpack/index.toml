@@ -3078,6 +3078,11 @@ hash = "8d29776485fa83d9d9884723f330fe615ed0da77ef0d92907f413abe5581d323"
 metafile = true
 
 [[files]]
+file = "mods/better-weaponry.pw.toml"
+hash = "60aa4ffd474d9263c1c4044184f21a5f80f819b2b69be59a68a3eae51b832d20"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c495c19a48e96ad7d32d8738a9209539968f7f41db7a5f8d20eed1b0f477fcad"
 metafile = true
@@ -3308,7 +3313,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "346f28e2ec19543a6b410bf2cf5389401bc6d1aa0189e39d07bf11d64d8bd321"
+hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
 
 [[files]]
@@ -3551,8 +3556,13 @@ hash = "d9d166652a6a967f67fb01ffe7507d8671bb3564e74d851867d302567865e2c6"
 metafile = true
 
 [[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "e9561866bb1c30847819680ad833e407572bdd8b04d1b11d25c00fbb4e25679d"
+metafile = true
+
+[[files]]
 file = "mods/petrols-parts.pw.toml"
-hash = "4c1d8627590fd2abfe4edcc05700595cf6df0d7a2e611248ee742fd1940e4860"
+hash = "32336a0ac67be3a466e581268aafaf859174ce9389addd43bd9d50d757148118"
 metafile = true
 
 [[files]]
@@ -3655,7 +3665,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "411be936c8db5e39300bcafaa7707b236d9a6bbaaf2171879b56b19d5ceea6ca"
+hash = "3c4da8a221086153d491104bba4fd8796dac92d5c3e0b2dc111a6c5d53b65484"
 metafile = true
 
 [[files]]
@@ -5186,12 +5196,12 @@ hash = "c0273b21ed013eaeedc272aa8b1369fa64bdcfc276eaf0b54a467c2d7fb040fd"
 
 [[files]]
 file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
-hash = "6d6b7da245ca52c3dcfa20907de5934af51634f07319c3072b26a7f9971e1738"
+hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
 metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "9af7a98ce43c2f97f25029a0c4b3604a47e4ad2f43da686547c9e039add354b1"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]

@@ -3216,6 +3216,11 @@ hash = "bd11a6432f2e077e0c33ac8bf8b5f0da76214f0d89954d0fe1451c68ac1a2cdd"
 metafile = true
 
 [[files]]
+file = "mods/create-coasters-simulated.pw.toml"
+hash = "0e590f9694cb6d9d1353dea5602cb911a6628cfb0aa36b408bc2c30fc3e88c96"
+metafile = true
+
+[[files]]
 file = "mods/create-connected.pw.toml"
 hash = "e3304daa476fa3ac90a018720d190fd366cf6e20e9ce33b5aa8d16b40eaf3446"
 metafile = true
@@ -3228,6 +3233,11 @@ metafile = true
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
 hash = "b8871b2a91d1eb68d187060e8f6e34d9cd2b407677587e9481b4b9eb042afab0"
+metafile = true
+
+[[files]]
+file = "mods/create-dynamic-lights.pw.toml"
+hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
 metafile = true
 
 [[files]]
@@ -3253,6 +3263,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
 metafile = true
 
 [[files]]
@@ -3471,6 +3486,11 @@ hash = "da2695e249cd30861e78ad909d5fd769b6f931862049f17165f41fc18f43129c"
 metafile = true
 
 [[files]]
+file = "mods/luckperms.pw.toml"
+hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
+metafile = true
+
+[[files]]
 file = "mods/macaws-biomes-o-plenty.pw.toml"
 hash = "bd9172920bb5de4c4eca980396cc9850322c874459f10dfd535e4ff82b8d0246"
 metafile = true
@@ -3586,6 +3606,11 @@ hash = "d318efaa5190d251642c7a6de7f327a35d32a587bc72ec2c180603e72563c9e7"
 metafile = true
 
 [[files]]
+file = "mods/serene-seasons-gen-fix.pw.toml"
+hash = "8c67d3addb357f6b112e910e185bd9d336bc28a41a489d449291d36d09add76c"
+metafile = true
+
+[[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "eb438b9d4a49c0cc65560cdc295bf927cabc6f34319375a0cfbf3aece662add8"
 metafile = true
@@ -3616,8 +3641,13 @@ hash = "07f41e20f8ebe5d9298dabba264aa1cdf285853a4d1d7c4e6b85f18d7c7e9288"
 metafile = true
 
 [[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
-hash = "c9291e44e1fd34eddbc1a2a9d69a90cb6c29d214abe4d3f282d9eaed62fa3416"
+hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
 metafile = true
 
 [[files]]
@@ -3643,6 +3673,11 @@ metafile = true
 [[files]]
 file = "mods/sparse-structures.pw.toml"
 hash = "39f04c55a2bd99df584fe260b0cccfcbda4bb1dfb553fb615517bf4449f4d446"
+metafile = true
+
+[[files]]
+file = "mods/ssrd.pw.toml"
+hash = "67eabcc7dbc9c93130dc3f6d689808ee97d4a92fb4ee27c7675c12cc87a2131e"
 metafile = true
 
 [[files]]
@@ -3678,11 +3713,6 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "f083c3cdf6aadc3b033e20ba8ccc929d5e1b86a0be50b05dc638d7f76dab5024"
-metafile = true
-
-[[files]]
-file = "mods/travelers-backpack.pw.toml"
-hash = "ffaea505f04f3b7120d77eea5dd8a12b7e6a30c8976a6103e07b89a1f50f0f19"
 metafile = true
 
 [[files]]

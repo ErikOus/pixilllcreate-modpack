@@ -2209,10 +2209,6 @@ file = "data/fabricDefaultResourcePacks.dat"
 hash = "78d70bea30c019ed01c3faa1cf071b901a854d481e1d9358342d8f2903dc8ba7"
 
 [[files]]
-file = "hotbar.nbt"
-hash = "8eef734bf614a1d3c267931aab0b0b39b95aac5077252b51f08a2effd32c110f"
-
-[[files]]
 file = "icon.png"
 hash = "2f4f8daf8f24464b5378b50eb37636c2dbca81646054658fee50b53b151faf23"
 

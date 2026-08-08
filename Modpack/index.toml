@@ -2415,6 +2415,11 @@ hash = "a8b98750a51ba1ef7cd98be2d4fc053bfd93af8df1410708a3219b1aeab71ac0"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap-world-map-waystones-compability.pw.toml"
 hash = "9e786f3bb7ecf3a96cf865830c2cf6e4cf860dfc0372c668be5ca85147f3026a"
 metafile = true
@@ -2492,6 +2497,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/motschens-better-leaves.pw.toml"
 hash = "64f039cd9df9f8612bebe1547596ba8f7e035524dac93564eead9ef0e504bc0b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/wildvanilla.pw.toml"
+hash = "42939434fba070f68def025d814244307318f4173a98a379c5bba84c16dbb804"
 metafile = true
 
 [[files]]

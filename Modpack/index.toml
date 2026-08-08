@@ -1961,26 +1961,6 @@ file = "config/snowrealmagic-common.yaml"
 hash = "e9cbb9b8671d14207841fb4bc6aace9a171840c3a5acdbcbcd22691439cc9da1"
 
 [[files]]
-file = "config/sodium-fingerprint.json"
-hash = "7971c3683dc819e7bec1fd8f7db41b74f0186a68f53227e10d3cc3929a526124"
-
-[[files]]
-file = "config/sodium-mixins.properties"
-hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
-
-[[files]]
-file = "config/sodium-options.json"
-hash = "786d7a09593a1c1eeae7b96459f22459c2da2941f644d3d34d07b47ddef58392"
-
-[[files]]
-file = "config/sodiumdynamiclights-client.toml"
-hash = "d8ebc5a26f6f4fc0d27c3746a3aa6ec8d2652873bd3cec6f254be1628f0472f7"
-
-[[files]]
-file = "config/sodiumextras-client.toml"
-hash = "eaa1dd286378c78d4e62bdb127ce50a6668a73f79161fd3aa95e40c787e29c8a"
-
-[[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "390cb983090cdc5ba9013c0551fcde8ecf579040f970e33de5ecfc500841cb7f"
 

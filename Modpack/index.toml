@@ -2996,10 +2996,6 @@ hash = "a8145065cddbb2e4110de30af522f39dc666d2834537f87cd062c969c38fb978"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Wild_Vanilla.zip"
-hash = "f6f8abb3b35d92edf1bf86ed8d4d5b237b5456977e52fbb3836712fc6f9f6539"
-
-[[files]]
 file = "resourcepacks/create-sophisticated-backpacks.pw.toml"
 hash = "4a1765568ea97948d6e8a1871896bff7e980c1b63593866b4cdb330152b713d3"
 metafile = true

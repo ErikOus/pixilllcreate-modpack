@@ -1,6 +1,6 @@
 name = "Cataclysm x YUNG's Better Nether Fortresses Compat"
 filename = "cataclysmfortresses-1.21.1-NeoForge.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

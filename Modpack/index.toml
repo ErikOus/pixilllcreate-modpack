@@ -1925,6 +1925,11 @@ hash = "1cac64ce20070511003e7fcef365129ae6d39cc27340edd9669412876822779c"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
@@ -2147,6 +2152,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "da2695e249cd30861e78ad909d5fd769b6f931862049f17165f41fc18f43129c"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "039bf6dad6f4669b586b65a9ca91bd5626c28ca9e9e369031607d93f055c6b37"
 metafile = true
 
 [[files]]

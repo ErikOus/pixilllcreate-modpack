@@ -1951,7 +1951,7 @@ metafile = true
 
 [[files]]
 file = "mods/emf-compat-core.pw.toml"
-hash = "27b7944031f18e4d73dbc54870f6040cb5f867bdab2cf560d9877b838dd27209"
+hash = "9297a11433dfd070eb019d643fc1324daf72c1810681aa1307583fae46e8cec5"
 metafile = true
 
 [[files]]
@@ -1966,7 +1966,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "298f2a99e309853181e71938c2358c4b2c7c6c19137dcf6bcefb736d43ab6f65"
+hash = "cc68235aff068c4a38af04e4091516720bb731cbb3789b1f6736f096523b336f"
 metafile = true
 
 [[files]]

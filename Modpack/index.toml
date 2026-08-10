@@ -2275,11 +2275,6 @@ hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
 metafile = true
 
 [[files]]
-file = "mods/rispwinds-mining-dimension.pw.toml"
-hash = "5d7345ac35ff418b834a980e509a44e7d19fd8c23c7900613c8e63af6fcd7827"
-metafile = true
-
-[[files]]
 file = "mods/sable.pw.toml"
 hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true

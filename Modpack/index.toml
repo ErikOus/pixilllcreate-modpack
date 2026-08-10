@@ -1685,6 +1685,11 @@ hash = "d7059efc26b419ddfc43aeef8a3ceddf098edafe0cfbcde611f30bf3e2973de8"
 metafile = true
 
 [[files]]
+file = "mods/aquarius-libs.pw.toml"
+hash = "2e5f7e96450ed1c9f094784926ef1c296c46cf1bbc76c309e50bb62ed825a4fc"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
@@ -1697,6 +1702,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "dd4f7fa317d9d64f1e04350c95b7bfd566eda25a48f243704c7d92cf015f1b57"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
 metafile = true
 
 [[files]]
@@ -2255,8 +2265,18 @@ hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]
+file = "mods/recipe-conflict-resolver.pw.toml"
+hash = "20f6331bd3e2d513ae50f17ffc2d27c991ba06e947697e2ac06bb1ec99acae12"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
+metafile = true
+
+[[files]]
+file = "mods/rispwinds-mining-dimension.pw.toml"
+hash = "5d7345ac35ff418b834a980e509a44e7d19fd8c23c7900613c8e63af6fcd7827"
 metafile = true
 
 [[files]]
@@ -2422,6 +2442,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "08d4775f8546564ad812b09062633ffc48f44b76328efe3832c021651af86b14"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-forge.pw.toml"
+hash = "26da583167cf97e2dd89bdf738dd2ad1358237c2b87ce3b593f47f6df1269df5"
 metafile = true
 
 [[files]]

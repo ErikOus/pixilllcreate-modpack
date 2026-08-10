@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vs/Modpack/v17/.wsuo"
+hash = "80450aeb751d363ce697d0fb88a4bc1e4c67b7b48bce35fcc4e8321981e44f91"
+
+[[files]]
+file = ".vs/Modpack/v17/DocumentLayout.json"
+hash = "9c45796985369e59070a40196dfdcf2b914c0842e59817ecacdff5768b1bd30d"
+
+[[files]]
+file = ".vs/Modpack/v17/workspaceFileList.bin"
+hash = "a4386eeab027b10e956b996920d2c07669a99997480b50df21819e67b93818f8"
+
+[[files]]
+file = ".vs/VSWorkspaceState.json"
+hash = "f8315c8ace58425aeca40c1c17b3be8d50894c55f561cd7e36266da5d5ea3d72"
+
+[[files]]
+file = ".vs/slnx.sqlite"
+hash = "c2b91b9ee4545d8a0ad5fe0b3dd84702d5291ba75b740dac3c3cef2b559d19d4"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -2260,13 +2280,13 @@ hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
-file = "mods/prickle.pw.toml"
-hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+file = "mods/polymorph.pw.toml"
+hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
-file = "mods/recipe-conflict-resolver.pw.toml"
-hash = "20f6331bd3e2d513ae50f17ffc2d27c991ba06e947697e2ac06bb1ec99acae12"
+file = "mods/prickle.pw.toml"
+hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
 metafile = true
 
 [[files]]

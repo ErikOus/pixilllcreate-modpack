@@ -1802,11 +1802,6 @@ hash = "35122aa4ef028508b018c0336ae6656f768884889079716c4340f73148cef5a6"
 metafile = true
 
 [[files]]
-file = "mods/coasters-simulated-track-styles.pw.toml"
-hash = "c1547631e5e002980afc0797f110fc81573ca0ff519069521150841f4a9bf6b0"
-metafile = true
-
-[[files]]
 file = "mods/cold-sweat-altitude.pw.toml"
 hash = "c6210322a34b25e5d21c1d62852261c388f972ad5bb52ba81ea21df6cd24417b"
 metafile = true

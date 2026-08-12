@@ -1667,6 +1667,11 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "d6c17b9756d8b9491b1813a3a999f78918e268809f904e4739719a7eed82719b"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "a445471ac6843bcf9fb76eabb4357de0357dfa7782be536a7827a26764fe45c1"
 metafile = true
@@ -2244,6 +2249,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "eab2f56ff9135b3b7253ea5a73deae2f887e2876f5f0432936044a6e926937b4"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
 
 [[files]]

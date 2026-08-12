@@ -957,10 +957,6 @@ file = "config/crittersandcompanions-spawns.toml"
 hash = "adee3094fc9fed080b851cd310360a755743463a74ba9225e367e1c9f0a1682b"
 
 [[files]]
-file = "config/cubes_without_borders.json"
-hash = "641e2d7112477ed90602bac62d895f601a509ce8c8dd67ec4446ac099207fadd"
-
-[[files]]
 file = "config/cupboard.json"
 hash = "937698438af081495eebab187013f66570218e1443f35db8a2ca0b4cb6d9638b"
 
@@ -1177,10 +1173,6 @@ file = "config/jei/world/server/Pixilllcraft Modded (modded_pixilllcraft_nl)/loo
 hash = "f178d344472f7dbc971e20e0293f545253df81e5a368d21062f313b70afbb00d"
 
 [[files]]
-file = "config/journeymap-server.toml"
-hash = "914e767b44a8e0504767fa60bd1e3779259f6363afb299ed4282b9001f7db61b"
-
-[[files]]
 file = "config/kiwi-client.yaml"
 hash = "d9def454899a78979c8ed8ee90a654691ef4ae62e0d3ccd3c5fcd3a5a2c23c35"
 
@@ -1207,10 +1199,6 @@ hash = "4da5bc00c2cc7db774e16f6905929303bfca802367d49133ba9742a6330238ad"
 [[files]]
 file = "config/lootr-common.toml"
 hash = "cb848383f0abff383a96a6cbf59bb91135cce38cb71711f3ffe5baca20fabf9a"
-
-[[files]]
-file = "config/mapfrontiers-client.toml"
-hash = "97f06644907334e627a766f18b1a52539db15212164bff272d963ad7aeed7957"
 
 [[files]]
 file = "config/mod_menu-client-1.toml.bak"
@@ -1315,14 +1303,6 @@ hash = "cb0af90a705f48886a1c4ec970dfeb70e91d6961f561b5f1d5a31f5e0cc1edd5"
 [[files]]
 file = "config/railways-server.toml"
 hash = "ffa9360afd80c2952b87b6892d6f782a3e9e82dbba98613a728d4fc4ecd647c1"
-
-[[files]]
-file = "config/renderscale.json5"
-hash = "d9d6e4becc6407a7bd5adbfecfe46b89d8aceb2d686547871485cd844fffd753"
-
-[[files]]
-file = "config/resolutioncontrol.json"
-hash = "0720961568af88017c7e78267d94f76b664258095371e5e812f7ac3b2e0b4431"
 
 [[files]]
 file = "config/sable-client.toml"
@@ -1519,14 +1499,6 @@ hash = "37ce5a56214bb9ca267ea3a4bdeee69da309afbbd6f74866efdd6e987a709ce3"
 [[files]]
 file = "config/travelersbackpack-server.toml"
 hash = "5a76437c5de30a4627649b628c1729ba34bfac796af5a0b9d16af3c218e00161"
-
-[[files]]
-file = "config/treephysics-client.toml"
-hash = "8b81e428e48334335233d4eee06fbfcd4b55c4680fcb2e860dd0090f9f52d15a"
-
-[[files]]
-file = "config/treephysics-common.toml"
-hash = "2ea3c9c90965a05d1df0451eb5d9759fa5f9e20d30a300d7caa78835ad3b48b2"
 
 [[files]]
 file = "config/trender.json"
@@ -1825,6 +1797,16 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
+file = "mods/coasters-engineered.pw.toml"
+hash = "35122aa4ef028508b018c0336ae6656f768884889079716c4340f73148cef5a6"
+metafile = true
+
+[[files]]
+file = "mods/coasters-simulated-track-styles.pw.toml"
+hash = "c1547631e5e002980afc0797f110fc81573ca0ff519069521150841f4a9bf6b0"
+metafile = true
+
+[[files]]
 file = "mods/cold-sweat-altitude.pw.toml"
 hash = "c6210322a34b25e5d21c1d62852261c388f972ad5bb52ba81ea21df6cd24417b"
 metafile = true
@@ -1896,7 +1878,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-coasters-simulated.pw.toml"
-hash = "0e590f9694cb6d9d1353dea5602cb911a6628cfb0aa36b408bc2c30fc3e88c96"
+hash = "cc99d5d40bce58b4b3649786d6f16e4da281be9508f652005dc3cfa656a003cf"
 metafile = true
 
 [[files]]
@@ -1946,7 +1928,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -2276,7 +2258,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
 metafile = true
 
 [[files]]

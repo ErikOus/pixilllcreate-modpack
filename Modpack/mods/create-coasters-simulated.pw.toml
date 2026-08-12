@@ -3,11 +3,11 @@ filename = "simulatedcoasters-0.1.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/W1ZUfWdr/versions/RIBBfVi3/simulatedcoasters-0.1.4.jar"
-hash-format = "sha512"
-hash = "b0432abef09615d0f15e4105e2113c97b88e45b18a305834e6db80a29c5951e8603a80830ef44de1427e43460283284eb58f03bba572d45c52b30fadec205a56"
+hash-format = "sha1"
+hash = "55a002c63a1b053daf6b1882a3970af5c8c49006"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "W1ZUfWdr"
-version = "RIBBfVi3"
+[update.curseforge]
+file-id = 8586851
+project-id = 1601871

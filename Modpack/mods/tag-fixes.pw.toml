@@ -1,0 +1,13 @@
+name = "Tag Fixes"
+filename = "tagfixes-1.0.7-universal-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HTb6xGH1/versions/xPGXIWBT/tagfixes-1.0.7-universal-1.21.1.jar"
+hash-format = "sha512"
+hash = "ca53a01036e959f9d51f7ab9cb31a06ce33a65a551c7ab96c41f260271db294c424499d8c1762cc32a261b24665aac067e367cf00370305895da90716e05e8d9"
+
+[update]
+[update.modrinth]
+mod-id = "HTb6xGH1"
+version = "xPGXIWBT"

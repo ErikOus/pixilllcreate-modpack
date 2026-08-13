@@ -2122,6 +2122,11 @@ hash = "d48948d8dbdf7ca96c4bc34be4aed08313d3a7707acab9ed12fb894b470bce58"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "faed2d9ae09b810b385180a3c20e598ff4d43da75f324b0320649ea4eeb78e29"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations-born-in-chaos.pw.toml"
 hash = "836ba7d86b9b61b3724d002e4ade218a1b6d7a7544d04efcc3fec39c727a87f1"
 metafile = true
@@ -2379,6 +2384,11 @@ metafile = true
 [[files]]
 file = "mods/swaying-garden.pw.toml"
 hash = "0f1084f76856ab7b414f5307049f3fe0862434fffcb7aafbbaccd24468377ee5"
+metafile = true
+
+[[files]]
+file = "mods/tag-fixes.pw.toml"
+hash = "2d905e517fe1e7dbc09a97b6898f837b19421b077bdc15ffe4f70acfa8435760"
 metafile = true
 
 [[files]]

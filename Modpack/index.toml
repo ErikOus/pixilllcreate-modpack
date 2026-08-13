@@ -1807,6 +1807,11 @@ hash = "35122aa4ef028508b018c0336ae6656f768884889079716c4340f73148cef5a6"
 metafile = true
 
 [[files]]
+file = "mods/coasters-simulated-track-styles.pw.toml"
+hash = "c1547631e5e002980afc0797f110fc81573ca0ff519069521150841f4a9bf6b0"
+metafile = true
+
+[[files]]
 file = "mods/cold-sweat-altitude.pw.toml"
 hash = "c6210322a34b25e5d21c1d62852261c388f972ad5bb52ba81ea21df6cd24417b"
 metafile = true
@@ -2174,6 +2179,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
 hash = "8b0e9d3c66f2a5276a3e1eaaab073f4e41f8d352c6d282e724129c23f0940bfc"
+metafile = true
+
+[[files]]
+file = "mods/minage-world-dimension.pw.toml"
+hash = "db9a6ac5887df38abf77e340e3986eadbc4d2d240eca6804284898208e2cff33"
 metafile = true
 
 [[files]]

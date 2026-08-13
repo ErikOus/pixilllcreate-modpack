@@ -1,0 +1,13 @@
+name = "Minage World"
+filename = "mining_world-2.0.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9624260e2892c478866b84a20677a15fb3339b0e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8334561
+project-id = 1558318

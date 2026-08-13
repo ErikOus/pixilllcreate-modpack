@@ -2388,7 +2388,7 @@ metafile = true
 
 [[files]]
 file = "mods/tag-fixes.pw.toml"
-hash = "2d905e517fe1e7dbc09a97b6898f837b19421b077bdc15ffe4f70acfa8435760"
+hash = "e2a5d3f2fe4cb58a064fe8f182d496339d2478fbd89fd924750a6b9c4d7587bb"
 metafile = true
 
 [[files]]

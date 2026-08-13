@@ -1,6 +1,6 @@
 name = "Tag Fixes"
 filename = "tagfixes-1.0.7-universal-1.21.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/HTb6xGH1/versions/xPGXIWBT/tagfixes-1.0.7-universal-1.21.1.jar"

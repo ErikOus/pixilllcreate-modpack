@@ -1678,7 +1678,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "dd4f7fa317d9d64f1e04350c95b7bfd566eda25a48f243704c7d92cf015f1b57"
+hash = "f4ed8dbabc400434daa13b37041055261f3a74af387e4aea8ba8ca12ef142b4c"
 metafile = true
 
 [[files]]
@@ -2072,6 +2072,11 @@ hash = "3e6d3262ebbf9838ab67178f71480edf47f55a074b4abd8527e862cdeb57d362"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "8e5e8e0c5e2a5f1de43a73d3e81d0397a3873d383d885a9aaa080a7e0c2b242f"
+metafile = true
+
+[[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "bc0ed43619af3b5e453ccb36412d72aef8d066594946a927155d2fbd440e4b40"
 metafile = true
@@ -2182,8 +2187,8 @@ hash = "8b0e9d3c66f2a5276a3e1eaaab073f4e41f8d352c6d282e724129c23f0940bfc"
 metafile = true
 
 [[files]]
-file = "mods/minage-world-dimension.pw.toml"
-hash = "db9a6ac5887df38abf77e340e3986eadbc4d2d240eca6804284898208e2cff33"
+file = "mods/mining-dimension-by-guyguytime.pw.toml"
+hash = "0929e4d34b46bb576f0811c4f3748a8df4e44c53417fb3d5020f5f53a865537b"
 metafile = true
 
 [[files]]

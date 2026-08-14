@@ -1663,7 +1663,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -1689,6 +1689,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "5f30c1c0363dd44c10db196a8d8a7f164ff06e06b0b80234a519d9e49b2a7f84"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "93f48d0cae69080be80efe8354e034511b18e9eb959e12e8d6817f0353e143be"
 metafile = true
 
 [[files]]
@@ -1729,6 +1734,11 @@ metafile = true
 [[files]]
 file = "mods/big-sign-writer.pw.toml"
 hash = "5cfdb5fd3c7f49b1cc8504a23d93dc0a4df8e3597ecbe20406231742258ad6bf"
+metafile = true
+
+[[files]]
+file = "mods/biome-blends.pw.toml"
+hash = "85eb00f40b865aaff5402ce0eec8dc102c55b81f049df83a56d8487e4242adc1"
 metafile = true
 
 [[files]]
@@ -1878,7 +1888,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-coasters-simulated.pw.toml"
-hash = "cc99d5d40bce58b4b3649786d6f16e4da281be9508f652005dc3cfa656a003cf"
+hash = "0e590f9694cb6d9d1353dea5602cb911a6628cfb0aa36b408bc2c30fc3e88c96"
 metafile = true
 
 [[files]]
@@ -1899,6 +1909,11 @@ metafile = true
 [[files]]
 file = "mods/create-dynamic-lights.pw.toml"
 hash = "56ff7fa56eb6ae7d32cdd1f7ce84022d1ed25b416dd9142572ef0d2360d49ec9"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantable-machinery.pw.toml"
+hash = "c56e9d5e16752de3d7c4db6c1afb1a89d714e831b151c0ff2c8ae58e8756dd4b"
 metafile = true
 
 [[files]]
@@ -1928,7 +1943,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -2278,7 +2293,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "56c47f4f4732d86a144c8c86af80411238c3ea74f6b96b0bc5174d2f20073a98"
+hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
 
 [[files]]
@@ -2338,7 +2353,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3d615c32683131c6a98a7da16c28263c5ca5cf50e4f33029e8c72c3558bb362c"
+hash = "8b237735f64f339d35d40eaceb76cdf137fd05a49b452d2a8c3434cada762e11"
 metafile = true
 
 [[files]]

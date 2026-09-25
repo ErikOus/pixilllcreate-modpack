@@ -1677,11 +1677,6 @@ hash = "a445471ac6843bcf9fb76eabb4357de0357dfa7782be536a7827a26764fe45c1"
 metafile = true
 
 [[files]]
-file = "mods/axiom.pw.toml"
-hash = "97fcda99a93799281fe5fe2a11f9fd43945983d87de2790d1537a2b4db017b3d"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "f4ed8dbabc400434daa13b37041055261f3a74af387e4aea8ba8ca12ef142b4c"
 metafile = true
@@ -2208,7 +2203,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "039bf6dad6f4669b586b65a9ca91bd5626c28ca9e9e369031607d93f055c6b37"
+hash = "c1bd2a3ffa72a90899ea5c3dcda120cd9948c552fd696eb439e6d176080e6e83"
 metafile = true
 
 [[files]]

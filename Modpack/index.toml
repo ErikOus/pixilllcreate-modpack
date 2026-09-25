@@ -1857,6 +1857,11 @@ hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
 
 [[files]]
+file = "mods/copycat-sails-and-compat.pw.toml"
+hash = "6c12054814dd434fce924d9ba00d20c4943f75a4f936046bca2a25db3529ae5b"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e3d0e6da51df08d87c9b88fd6b4011de711d95497263b9ecfd1466cbd34b98d5"
 metafile = true
@@ -2073,7 +2078,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "65ac18556f91ebb4f303a39731e93e94ffa94ddc690b0fbf35346bdcb3b05919"
+hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
 
 [[files]]
@@ -2089,6 +2094,11 @@ metafile = true
 [[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "6424aa354655682483ec2a0db6b6f24b1f09b349d93d9e6bfeeb73733fdfa759"
+metafile = true
+
+[[files]]
+file = "mods/icys-better-horses.pw.toml"
+hash = "6a07329ff7927271b39233964744d08684fe333c02370a69f6214651341f84dc"
 metafile = true
 
 [[files]]
@@ -2219,6 +2229,11 @@ metafile = true
 [[files]]
 file = "mods/mod-menu-neoforge-edition.pw.toml"
 hash = "092e47346a288a93eb69d50b235eb4b5a1ea449599045b8abd037388943bca0a"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "d743823561a2b3008876af95193e8521e2d6239bd9e8d9bc13db62441cc879ee"
 metafile = true
 
 [[files]]

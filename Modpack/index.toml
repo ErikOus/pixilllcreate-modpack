@@ -2252,6 +2252,11 @@ hash = "2e9a8daaa0e0cc9cdfb67422e0f928f2db6a1f2984b8636eb2b5091c5fb23e29"
 metafile = true
 
 [[files]]
+file = "mods/neoreplaymod.pw.toml"
+hash = "11ebe9d78c9f76461bc79e47449b7e5d020b82f7117d865dff70ad1587d94b96"
+metafile = true
+
+[[files]]
 file = "mods/not-so-simple-creative-dimension.pw.toml"
 hash = "760a7496a9643fb979d055d107a914b02ae8c822e70281c3b0ccb5c3848b0a2b"
 metafile = true
@@ -2314,11 +2319,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
-metafile = true
-
-[[files]]
-file = "mods/replaymod.pw.toml"
-hash = "2f046f4dc799bef30aa17d7c507195fe6930f4e1a89525a11a3142272a06231b"
 metafile = true
 
 [[files]]

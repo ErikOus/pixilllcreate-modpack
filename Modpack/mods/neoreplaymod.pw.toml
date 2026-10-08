@@ -1,0 +1,13 @@
+name = "ReplaymodNeoforge"
+filename = "replaymod-1.21-neoforge-2.6.26-1-g7313694-dirty.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/phosyjFt/versions/z8JyS0cZ/replaymod-1.21-neoforge-2.6.26-1-g7313694-dirty.jar"
+hash-format = "sha512"
+hash = "444c47695c4539812be191731a6c1e937b0ecab5601ec924438b6441e32d070d8b41ce49bd80684ca101609840e4f74436692ae202d333d7222ac7e401dceea4"
+
+[update]
+[update.modrinth]
+mod-id = "phosyjFt"
+version = "z8JyS0cZ"
